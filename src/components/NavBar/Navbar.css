@@ -1,0 +1,25 @@
+.nav{
+    background-color: #5E454B;
+    text-transform: uppercase;
+    padding: 1rem 8%;
+    display: flex;
+  
+    position: relative;
+
+    font-size: 1rem;
+}
+
+.home{
+    color: #F3F0D7;
+    font-weight: 700;
+    padding-right: 2rem;
+    text-decoration: none;
+}
+
+.moreDetails{
+    color: #F3F0D7;
+    text-decoration: none;
+    padding-top: 2rem;
+    font-weight: 700;
+
+}

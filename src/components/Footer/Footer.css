@@ -1,0 +1,27 @@
+.fb{
+    color: #F3F0D7;
+    font-weight: 700;
+    padding: 1rem;
+    text-decoration: none;
+    align-items:center;
+}
+
+.footer{
+    background-color: #5E454B;
+    text-transform: uppercase;
+    padding: 1rem 8%;
+    display: flex;
+    align-items:center;
+    justify-content: space-between;
+  
+    font-size: 1rem;
+}
+
+.text{
+    color: #F3F0D7;
+    font-weight: 700;
+    padding: 1rem;
+    text-decoration: none;
+    align-items:center;
+
+}
