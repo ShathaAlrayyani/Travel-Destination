@@ -1,0 +1,11 @@
+.title{
+    font-size: 1.3rem;
+    font-weight: 500;
+    color: #5E454B;
+}
+
+.img{
+    border-radius: 15rem;
+    box-sizing: border-box;
+    width: 500px;
+}
