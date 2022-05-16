@@ -1,22 +1,11 @@
 import '../Tours/Tours.css';
 
-function Tour (props){
+export default function Tours (){
 
     return (
-        
-        <div>
 
-            <p className="title"> {props.name}</p>
-            <img className="img" src= {props.img} alt = {props.alt} />
-            <br/>
-            <br/>
-            
-        </div>
+       <>
+       <Tour/>
+       </>
     )
 }
-
-
-
-
-
-export default Tour ;
